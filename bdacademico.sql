@@ -62,7 +62,7 @@ INSERT INTO `aluno` (`id_aluno`, `nome_aluno`, `turma`) VALUES
 (1, 'Rodolfo Azevedo', 10),
 (2, 'Joao Pedro', 10),
 (3, 'Emerson Cayo', 10),
-(4, 'Felipe Nascimento', 10),
+(4, 'Filipe Nascimento', 10),
 (5, 'Aldemar Mendes', 10);
 
 -- --------------------------------------------------------
@@ -216,7 +216,7 @@ INSERT INTO `usuarios_aluno` (`id_usuario`, `nome_usuario`, `usuario`, `senha`, 
 (1, 'Rodolfo Azevedo', 'rodolfo', '123', 'rodolfo@cest.com'),
 (2, 'Joao Pedro', 'joao', '123', 'joao@cest.com'),
 (3, 'Emerson Cayo', 'emerson', '123', 'emerson@cest.com'),
-(4, 'Felipe Nascimento', 'felipe', '123', 'felipe@cest.com'),
+(4, 'Filipe Nascimento', 'filipe', '123', 'filipe@cest.com'),
 (5, 'Aldemar Mendes', 'aldemar', '123', 'aldemar@cest.com');
 
 -- --------------------------------------------------------
